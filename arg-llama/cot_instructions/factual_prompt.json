@@ -1,0 +1,10 @@
+[
+{
+	"input": "All birds can fly because they have wings.",
+	"output": "This argument has factual error. Penguins have wings. Penguins can't fly. So not all birds can fly."
+},
+{
+	"input": "Humans have never set foot on any celestial body other than Earth.",
+	"output": "This argument has factual error. Astronauts from the USA are humans. Astronauts from the USA landed on the lunar surface. So humans do have set foot on other celestial body."
+}
+]

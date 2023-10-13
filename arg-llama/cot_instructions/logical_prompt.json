@@ -1,0 +1,10 @@
+[
+	{
+		"input": "Anyone who supports gun control is unpatriotic.",
+		"output": "This argument has logical fallacy. It presents only two mutually exclusive options: either against gun control or unpatriotic. However, someone can be patriotic while supporting gun control."
+	},
+	{
+		"input": "If someone is wealthy, they must be highly intelligent.",
+		"output": "This argument has logical fallacy. The subtext of this argument is that unintelligent people cannot be wealthy. However, intelligence is not the sole determining factor."
+	}
+]

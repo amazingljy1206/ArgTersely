@@ -1,0 +1,10 @@
+[
+	{
+		"input": "People who eat chocolate regularly have longer lifespans and better health. Therefore, chocolate is a superfood that everyone should consume daily.",
+		"output": "This argument has confirmation bias. It selectively focuses on studies that support the idea that chocolate is beneficial to health. Considering moderation, individual differences, and potential confounding factors, chocolate is not a superfood."
+	},
+	{
+		"input": "All successful entrepreneurs dropped out of college. Therefore, pursuing higher education is unnecessary for achieving business success.",
+		"output": "This argument has confirmation bias. It disregard the countless successful entrepreneurs who completed their education. So pursuing higher education is still necessary for achieving business success."
+	}
+]
